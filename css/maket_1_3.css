@@ -211,6 +211,7 @@ button{
 
 
 .list__link:hover,
+.list__link:focus,
 .list__link--active{   
     border: #B8FFEC 2px solid;
     border-radius: 6px;
